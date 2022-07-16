@@ -1,0 +1,26 @@
+.navfont{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+}
+.navItemsFont, .cardTitle, h3{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: x-large;
+}
+.textBody{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+    font-style: italic;
+}
+.textHeading{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 70px;
+}
+.cardText, a{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: medium;
+}
